@@ -1,0 +1,18 @@
+
+[
+  {
+    "name": "Rice",
+    "price": 4500,
+    "unit": "per 20kg"
+  },
+  {
+    "name": "Wheat",
+    "price": 350,
+    "unit": "per 20kg"
+  },
+  {
+    "name": "Cotton",
+    "price": 1450,
+    "unit": "per 20kg"
+  }
+]

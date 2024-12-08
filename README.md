@@ -1,2 +1,8 @@
-# Agri-Help
-"AgriAssist is a robust web platform built with React, Node.js, Express.js, and MongoDB, designed to support farmers by providing real-time agricultural information, resources, and tools. The platform features language support, news updates, and a user-friendly interface for enhanced agricultural decision-making."
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

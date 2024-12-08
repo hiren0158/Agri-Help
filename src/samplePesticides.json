@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Pesticide 1",
+        "description": "Effective for controlling pests on crops like wheat and rice.",
+        "image": "/path/to/image1.jpg"
+    },
+    {
+        "name": "Pesticide 2",
+        "description": "Provides long-lasting protection against a variety of pests.",
+        "image": "/path/to/image2.jpg"
+    },
+    {
+        "name": "Pesticide 3",
+        "description": "Organic pesticide suitable for all kinds of crops.",
+        "image": "/path/to/image3.jpg"
+    }
+]

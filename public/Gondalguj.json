@@ -1,0 +1,20 @@
+[
+    {
+        "name": "ચોખા",
+        "price": 450,
+        "unit": "પ્રતિ 20 કિલો",
+        "icon": "GiGrain"
+    },
+    {
+        "name": "ઘઉં",
+        "price": 350,
+        "unit": "પ્રતિ 20 કિલો",
+        "icon": "GiWheat"
+    },
+    {
+        "name": "કપાસ",
+        "price": 1450,
+        "unit": "પ્રતિ 20 કિલો",
+        "icon": "GiCottonFlower"
+    }
+]

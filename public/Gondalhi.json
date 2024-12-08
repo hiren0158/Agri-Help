@@ -1,0 +1,20 @@
+[
+    {
+        "name": "चावल",
+        "price": 45,
+        "unit": "प्रति 20 किलोग्राम",
+        "icon": "GiGrain"
+    },
+    {
+        "name": "गेहूं",
+        "price": 350,
+        "unit": "प्रति 20 किलोग्राम",
+        "icon": "GiWheat"
+    },
+    {
+        "name": "कपास",
+        "price": 1450,
+        "unit": "प्रति 20 किलोग्राम",
+        "icon": "GiCottonFlower"
+    }
+]

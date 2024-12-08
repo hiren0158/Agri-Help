@@ -1,0 +1,22 @@
+
+[
+    {
+      "name": "Rice",
+      "price": 450,
+      "unit": "per 20kg",
+      "icon": "GiGrain" 
+    },
+    {
+      "name": "Wheat",
+      "price": 350,
+      "unit": "per 20kg",
+      "icon": "GiWheat"  
+    },
+    {
+      "name": "Cotton",
+      "price": 1350,
+      "unit": "per 20kg",
+      "icon": "GiCottonFlower" 
+    }
+  ]
+  
